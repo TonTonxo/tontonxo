@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-next-gc9h.vercel.app/](https://portfolio-next-gc9h.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-next-gc9h.vercel.app/](https://github.com/TonTonxo)
 
 - 💬 Ask me about **React**
 
