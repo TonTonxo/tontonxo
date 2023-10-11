@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-next-gc9h.vercel.app/](https://github.com/TonTonxo)
+- 👨‍💻 All of my projects are available at [https://portfolio-tonton.vercel.app/](https://portfolio-tonton.vercel.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sulpicoanthony@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-next-gc9h.vercel.app/resume](https://portfolio-next-gc9h.vercel.app/resume)
+- 📄 Know about my experiences [https://portfolio-tonton.vercel.app//resume](https://portfolio-tonton.vercel.app//resume)
 
 - ⚡ Fun fact **People usually think I am stubborn because on how I look**
 
