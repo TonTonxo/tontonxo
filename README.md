@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tontonxo" alt="tontonxo" /></a> </p>
 
-- 🔭 I’m currently working on [Python Price Prediction](https://github.com/TonTonxo/Python-Prediction)
+- 🔭 I’m currently working on [Webpage Generator using NextJS](https://github.com/TonTonxo/Webpage-Generator-NextJS)
 
 - 🌱 I’m currently learning **NextJS**
 
